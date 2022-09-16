@@ -33,7 +33,3 @@ EOF  all  count  create  destroy  help  quit  show  update
 
 All the code is tested with the **unittest** module.
 The test for the classes are in the [test_models](./tests/test_models/) folder.
-
-## Authors
-- **David Livingstone Hini** - [kwamelivingstone77@gmail.com](https://github.com/DavidLivingstoneHini)
-- **Stacey Nakanwagi** - [staceynakanwagi@gmail.com](https://github.com/Stacey-bee)
